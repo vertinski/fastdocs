@@ -1,5 +1,7 @@
 # FastDocs 📠
 
+![FastDocs logo](assets/fastdocs_logo.jpg)
+
 This is an automated programming language and framework documentation scraper 
 for usage in local and online software development IDEs with AI assisted or 
 autonomous coding capabilities.
