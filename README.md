@@ -29,6 +29,7 @@ The script automatically installs required modules:
 
 ## Usage
 
+0. Set Your Groq API key as environment variable.
 1. Run the script
 2. Set your programming language when prompted
 3. Use the following commands:
