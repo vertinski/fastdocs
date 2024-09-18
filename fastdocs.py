@@ -142,6 +142,7 @@ def main():
         elif user_input.lower() == 'help':
             print("\nAvailable commands:")
             print("'lang':  Change Your programming language")
+            print("'buff <int>':  Set the document count in the buffer")
             print("'clear': Clear the 'doc_buffer' file to free AI context space")
             print("'exit':  Quit the program")
             print("'help':  Show this help message")
